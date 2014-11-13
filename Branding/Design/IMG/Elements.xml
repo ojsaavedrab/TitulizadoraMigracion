@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Code initially generated with SharePoint Software Factory, Version 4.1 , spsf.codeplex.com -->
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module
+		Name="IMG"
+		Path="IMG"
+		Url="IMG"
+		RootWebOnly="TRUE">
+    <File Path="icn_ayuda.png" Url="icn_ayuda.png" Type="GhostableInLibrary" />
+    <File Path="icn_bienestar.png" Url="icn_bienestar.png" Type="GhostableInLibrary" />
+    <File Path="icn_calendar.png" Url="icn_calendar.png" Type="GhostableInLibrary" />
+    <File Path="icn_coffee.png" Url="icn_coffee.png" Type="GhostableInLibrary" />
+    <File Path="icn_proyectos.png" Url="icn_proyectos.png" Type="GhostableInLibrary" />
+    <File Path="icn_tecnologia.png" Url="icn_tecnologia.png" Type="GhostableInLibrary" />
+    <File Path="icn_transparencia.png" Url="icn_transparencia.png" Type="GhostableInLibrary" />
+    <File Path="img_blue_arrow.png" Url="img_blue_arrow.png" Type="GhostableInLibrary" />
+    <File Path="img_comillas_closing.png" Url="img_comillas_closing.png" Type="GhostableInLibrary" />
+    <File Path="img_comillas_opening.png" Url="img_comillas_opening.png" Type="GhostableInLibrary" />
+    <File Path="img_divisor_multiactivos.png" Url="img_divisor_multiactivos.png" Type="GhostableInLibrary" />
+    <File Path="img_divisor_titularizadora.png" Url="img_divisor_titularizadora.png" Type="GhostableInLibrary" />
+    <File Path="img_extranet.png" Url="img_extranet.png" Type="GhostableInLibrary" />
+    <File Path="img_multiactivos.png" Url="img_multiactivos.png" Type="GhostableInLibrary" />
+    <File Path="img_multiactivos_2.png" Url="img_multiactivos_2.png" Type="GhostableInLibrary" />
+    <File Path="img_red_arrow.png" Url="img_red_arrow.png" Type="GhostableInLibrary" />
+    <File Path="img_titularizadora.png" Url="img_titularizadora.png" Type="GhostableInLibrary" />
+    <File Path="img_tools.png" Url="img_tools.png" Type="GhostableInLibrary" />
+    <File Path="bg_divider_vertical.png" Url="bg_divider_vertical.png" Type="GhostableInLibrary" />
+    <File Path="bg_multiactivos_header.png" Url="bg_multiactivos_header.png" Type="GhostableInLibrary" />
+    <File Path="bg_titularizadora_header.png" Url="bg_titularizadora_header.png" Type="GhostableInLibrary" />
+    <File Path="bg_tools.png" Url="bg_tools.png" Type="GhostableInLibrary" />
+  </Module>
+</Elements>

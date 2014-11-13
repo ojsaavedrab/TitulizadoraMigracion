@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Code initially generated with SharePoint Software Factory, Version 4.1 , spsf.codeplex.com -->
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module
+		Name="CSS"
+		Path="CSS"
+		Url="CSS"
+		RootWebOnly="TRUE">
+    <File Path="crim.css" Url="crim.css"  Type="GhostableInLibrary" />
+  </Module>
+</Elements>

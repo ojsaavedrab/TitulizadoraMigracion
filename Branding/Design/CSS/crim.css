@@ -1,0 +1,75 @@
+/*-----------------------------------*/
+/*Generales                          */
+/*-----------------------------------*/
+body {
+    font-family: "Segoe UI","Segoe",Arial,Helvetica,sans-serif;
+    font-size: 12x;
+    color: #333;
+    font-weight: normal;
+}
+
+.clear
+{
+clear:both;
+}
+
+.no-list{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+/*-----------------------------------*/
+/*Encabezado                         */
+/*-----------------------------------*/
+#lgsh-header{
+  overflow: hidden;
+  background: url('/img/bg_multiactivos_header.png') repeat-x;
+}
+
+#lgsh-sitelogo{
+  float: left
+}
+
+#lgsh-title{
+  float: right;
+  background: url('/img/img_multiactivos_2.png') top right;
+  width:230px;
+  height:103px;
+}
+
+
+
+.ms-siteicon-img, .ms-siteicon-a {
+  max-height: none;
+  max-width: none;
+}
+
+
+
+/*-----------------------------------*/
+/*Footer                             */
+/*-----------------------------------*/
+
+#lgsh-footer-title{
+  color: #FFF;
+padding-left: 20px;
+padding-bottom: 0px;
+  background-color: #333;
+}
+
+#lgsh-tools > ul > li{
+  width: 100px;  
+  float:left;
+}
+#lgsh-tools > ul > li > a {
+  width: 100px;  
+  overflow: hidden;
+}
+#lgsh-tools > ul > li > a > img{
+  margin: auto;  
+}
+#lgsh-tools > ul > li > a > span{
+  margin: auto;  
+}
+

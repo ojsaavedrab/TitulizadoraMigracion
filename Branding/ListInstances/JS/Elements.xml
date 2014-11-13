@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Code initially generated with SharePoint Software Factory, Version 4.1 , spsf.codeplex.com -->
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ListInstance
+		Title="JS"
+		Description="Biblioteca de activos para los scripts de Javascript"
+		FeatureId="4BCCCD62-DCAF-46dc-A7D4-E38277EF33F4"
+		Id="E7347492-7A9C-42DF-9C68-A50DF876A7E6"
+		Url="JS"
+		OnQuickLaunch="FALSE"
+		RootWebOnly="TRUE"
+		TemplateType="851" />
+</Elements>

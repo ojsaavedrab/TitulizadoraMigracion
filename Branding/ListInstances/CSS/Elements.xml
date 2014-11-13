@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Code initially generated with SharePoint Software Factory, Version 4.1 , spsf.codeplex.com -->
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ListInstance
+		Title="CSS"
+		Description="Biblioteca de activos para los archivos de estilos"
+		FeatureId="4BCCCD62-DCAF-46dc-A7D4-E38277EF33F4"
+		Id="1572E445-FF4F-4D48-84BE-0FFD099675A7"
+		Url="CSS"
+		OnQuickLaunch="FALSE"
+		RootWebOnly="TRUE"
+		TemplateType="851" 
+    Hidden="TRUE"/>
+</Elements>

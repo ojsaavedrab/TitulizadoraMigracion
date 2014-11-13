@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="b6217feb-bfb7-42e8-8385-4aae668c9bb2" 
+        solutionId="b6217feb-bfb7-42e8-8385-4aae668c9bb2" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Titulizadora"
+        sharePointProductVersion="15.0">
+</package>

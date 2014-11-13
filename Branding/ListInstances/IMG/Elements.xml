@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Code initially generated with SharePoint Software Factory, Version 4.1 , spsf.codeplex.com -->
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ListInstance
+		Title="IMG"
+		Description="Biblioteca de imagenes para los diseños del portal"
+		FeatureId="00BFEA71-52D4-45B3-B544-B1C71B620109"
+		Id="2EDD5150-B22E-4A5B-8D41-04E572E5BEF4"
+		Url="IMG"
+		OnQuickLaunch="FALSE"
+		RootWebOnly="TRUE"
+		TemplateType="109" 
+    Hidden="TRUE"/>
+</Elements>

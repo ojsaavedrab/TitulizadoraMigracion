@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="IMG\" Type="ElementManifest" />
+    <ProjectItemFile Source="icn_ayuda.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="icn_bienestar.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="icn_calendar.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="icn_coffee.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="icn_proyectos.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="icn_tecnologia.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="icn_transparencia.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="img_blue_arrow.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="img_comillas_closing.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="img_comillas_opening.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="img_divisor_multiactivos.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="img_divisor_titularizadora.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="img_extranet.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="img_multiactivos.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="img_multiactivos_2.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="img_red_arrow.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="img_titularizadora.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="img_tools.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="bg_divider_vertical.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="bg_multiactivos_header.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="bg_titularizadora_header.png" Target="IMG\" Type="ElementFile" />
+    <ProjectItemFile Source="bg_tools.png" Target="IMG\" Type="ElementFile" />
+  </Files>
+</ProjectItem>
